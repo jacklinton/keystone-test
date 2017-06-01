@@ -29,3 +29,17 @@ node_modules
 
 # Ignore .DS_Store files on OS X
 .DS_Store
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.idea/
+Procfile
+keystone.js
+models/
+package-lock.json
+package.json
+public/
+routes/
+templates/
+updates/
